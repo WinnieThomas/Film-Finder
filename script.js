@@ -1,4 +1,4 @@
-const tmdbKey = '40fa6d3d617e729fdfa82e4740c95df3';
+const tmdbKey = 'YOUR API KEY';
 const tmdbBaseUrl = 'https://api.themoviedb.org/3/';
 const playBtn = document.getElementById('playBtn');
 
